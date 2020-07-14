@@ -1,1 +1,1 @@
-# ATTalk- aitalk 语法文件
+# ATTalk- aitalk bnf 语法文件
